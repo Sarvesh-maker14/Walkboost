@@ -7,11 +7,7 @@ Add Walkboots to cart
 View cart and adjust quantities
 Checkout using Stripe payment gateway
 View order history
-Technologies
-React
-Redux
-Strapi API
-Stripe payment gateway
+Technologies used are React ,Redux ,Strapi API and Stripe payment gateway.
 
 Screen Shots
 
