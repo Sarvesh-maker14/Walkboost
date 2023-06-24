@@ -1,9 +1,11 @@
 # Walkboost
 This is an ecommerce site Walkboost, built using React, Redux, Strapi API, and Stripe payment gateway.
 
+client :- https://github.com/Sarvesh-maker14/Walkboost-client
+
 Features :-
 Browse Walkboost products
-Add Walkboots to cart
+Add items to cart
 View cart and adjust quantities
 Checkout using Stripe payment gateway
 View order history
