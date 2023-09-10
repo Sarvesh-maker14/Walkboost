@@ -3,15 +3,11 @@ This is an ecommerce site Walkboost, built using React, Redux, Strapi API, and S
 
 client :- https://github.com/Sarvesh-maker14/Walkboost-client
 
-Features :-
-Browse Walkboost products
-Add items to cart
-View cart and adjust quantities
-Checkout using Stripe payment gateway
-View order history
-Technologies used are React ,Redux ,Strapi API and Stripe payment gateway.
+<b>Technology Used</b>: The application is built using React, Redux and SCSS for Front-End and Strapi CMS is used for a Content Management System. Stripe payment gateway is used for handling the payments.
 
-Screen Shots
+<b>Features of the application</b>: Browse through products, Shop By Categories, Sort the products, Add to Cart, Remove from Cart, Change the quantity of products, Checkout using Stripe payment gateway.
+
+<b>Screenshots<b>:
 
 ![image](https://user-images.githubusercontent.com/85078565/232297919-5b83fea4-9026-4abe-9eef-e3bfc117f2e4.png)
 
